@@ -1,0 +1,4 @@
+#Tue Aug 18 20:56:21 WAT 2020
+base.0=C\:\\Users\\Utibe\\AndroidStudioProjects\\drawer_example_with_animations\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
